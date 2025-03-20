@@ -1,6 +1,7 @@
 # 💡 LogicFlow Repository | Repositório LogicFlow
 
 Repository dedicated to improving programming logic skills. A growing collection of varied exercises, added whenever possible. A space to sharpen your skills.
+
 Repositório dedicado ao aprimoramento de habilidades em lógica de programação. Uma coleção crescente de exercícios variados, adicionados sempre que puder. Um espaço para afiar suas habilidades.
 
 ---
@@ -8,6 +9,7 @@ Repositório dedicado ao aprimoramento de habilidades em lógica de programaçã
 ## 📂 Current Structure | Estrutura Atual
 
 At the moment, the repository includes the following structure:
+
 No momento, o repositório conta com a seguinte estrutura:
 
 LogicFlow/
@@ -19,7 +21,7 @@ LogicFlow/
     
 ---
 
-## 🎯 Objetivo | Objective
+## 🎯 Objective | Objetivo
 
 The **LogicFlow** repository was created to serve as a continuous base for practicing programming logic. No matter what language you prefer, the goal here is to solve problems and strengthen the logical reasoning that supports software development.
 
